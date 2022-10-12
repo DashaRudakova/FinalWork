@@ -11,7 +11,7 @@
 5. Возвращаем новый заполненый массив как результат
 
 ### Блок-схема алгоритма:
-![Диаграмма](/![image](https://user-images.githubusercontent.com/111183411/195412789-4741bb95-05b3-4ab7-b700-705c8e558eab.png))
+![Блок-схема](https://raw.githubusercontent.com/DashaRudakova/FinalWork/main/Алгоритм.png)
 
 ### Программа:
 Для запуска программы перейдите в папку `Program` и запустите команду через терминал:
